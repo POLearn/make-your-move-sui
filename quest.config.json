@@ -1,11 +1,11 @@
 {
     "metadata": {
         "owner": "polearn",
-        "name": "pol-template",
-        "chain": "656476",
-        "title": "Deploy Your First Smart Contract on EDU Chain",
-        "description": "This course guides you through deploying your first smart contract on EDU Chain. You'll learn the fundamental concepts of smart contracts, explore their structure and functionality, and gain hands-on experience writing, compiling, and deploying your own contract.",
-        "image": "https://raw.githubusercontent.com/POLearn/pol-template/refs/heads/master/content/assets/cover.png"
+        "name": "make-your-move-sui",
+        "title": "Make Your Move in Blockchain with Smart Contracts on Sui",
+        "description": "",
+        "image": "https://raw.githubusercontent.com/POLearn/make-your-move-sui/refs/heads/master/content/assets/cover.png",
+        "type": "move"
     },
     "quests": [
         {
